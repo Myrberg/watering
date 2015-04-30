@@ -1,0 +1,22 @@
+.vanster {
+	background-color: #8bc34a;
+	height: 200px;
+	width:50%;
+}
+.hoger {
+	background-color: #009688;
+	height:200px;
+	width:50%;
+}
+.under {
+	background-color: #3949ab;
+	height:200px;
+	width:500px;
+	margin: 0 auto;
+}
+.over {
+	background-color: #9c27b0;
+	height:200px;
+	width:500px;
+	margin: 0 auto;
+}
